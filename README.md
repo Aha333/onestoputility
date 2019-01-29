@@ -1,6 +1,11 @@
 # onestoputility
 onestoputility new
 
+# Pycharm Setting
+* plug-in
+- there are quite some cool plug-ins in pychartm
+  - you can search for markdown plugin.
+  - to turn on plug in, you need to do i s
 
 # Experience:
 # use python -i file.py to run any program
